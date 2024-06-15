@@ -1,0 +1,13 @@
+.vitepress/dist
+.vitepress/cache
+.gitignore file
+.DS_Store
+*.log
+*.tgz
+.vscode
+dist
+cache
+temp
+examples-temp
+node_modules
+pnpm-global
